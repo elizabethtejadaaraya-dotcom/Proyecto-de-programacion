@@ -244,3 +244,47 @@ header {
     transform: translateY(-2px);
     box-shadow: 0 5px 0 #421818 !important;
 }
+/* --- ESTILOS DEL FOOTER PIXEL --- */
+.footer-pixel-container {
+    background-color: #11131c !important;
+    border: 3px solid #2d354a !important;
+    border-radius: 8px !important;
+    padding: 30px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+}
+
+.footer-title {
+    color: #f3d467 !important;
+    font-family: 'Press Start 2P', monospace !important;
+    font-size: 10px !important;
+    margin-bottom: 15px !important;
+    text-shadow: 2px 2px 0px #000;
+}
+
+.footer-text {
+    color: #b0bec5 !important;
+    font-family: 'Press Start 2P', monospace !important;
+    font-size: 7px !important;
+    line-height: 1.8 !important;
+}
+/* --- ESTILOS PARA LA HISTORIETA / CAPÍTULOS --- */
+.capitulo-card {
+    background-color: #181a24 !important;
+    border: 2px solid #3b4463 !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+    overflow: hidden;
+}
+
+.capitulo-card .card-text {
+    color: #d0d7de !important;
+    font-family: 'Press Start 2P', monospace !important;
+    font-size: 7px !important;
+    line-height: 1.8 !important;
+    margin-bottom: 0 !important;
+}
+
+.rounded-pixel {
+    border-radius: 4px !important;
+    border: 1px solid #3b4463;
+}
