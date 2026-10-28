@@ -1,5 +1,5 @@
 function pedirPerdon() {
-    const mensaje = "Rhys ha decidido reflexionar y pedir perdón... El ambiente en la casa se calma y el nivel de emoción se estabiliza. ❤️";
+    const mensaje = "Rhys ha decidido reflexionar y pedir perdón, al pedir perdón su madre se conmueve y lo perdona y Rhys se tranquiliza. ❤️";
     document.getElementById('mensajePerdon').innerText = mensaje;
     
     const modalElement = document.getElementById('perdonModal');
