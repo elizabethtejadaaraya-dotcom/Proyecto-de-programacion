@@ -20,6 +20,7 @@ Novela visual interactiva y videojuego web de temática retro-pixel, desarrollad
 
 ## 🌐 Enlace del proyecto
 Puedes encontrar el link del proyecto aquí
+https://elizabethtejadaaraya-dotcom.github.io/Proyecto-de-programacion/
 
 ## 💻 Instrucciones de Instalación 
 Si deseas clonar y probar este repositorio en tu computadora de manera local 
@@ -33,5 +34,8 @@ Abre la carpeta resultante en Visual Studio Code
 
  ## 📄 Licencia 
  Proyecto desarrollado con fines académicos y creativos enfocados en el desarrollo de frontend y la narrativa interactiva 
+
+## ❌ Pequeño problema que se presentó
+En un momento a la hora de trabajar en el colegio no revisé mi git y tenía la cuenta de otro estudiante lo que provoco que parecía que él hizo algún commit y quedo como laborador.
 
  
